@@ -8,7 +8,7 @@ Maintainer: Song Zhai <zsviolet1993@gmail.com>
 Description: Construct multi-trait PRS (mtPRS) via performing principal component analysis (PCA) on genetic correlaton matrix among traits. Package is based on ''Integrating multiple traits for improving polygenic risk prediction in disease and pharmacogenomics GWAS'' by Zhai, S., Guo, B., Wu, B., Mehrotra, D.V., and Shen, J., 2023 (submitted).
 License: GPL (>= 2)
 Depends: R (>= 4.0.0)
-Imports: dplyr (>= 1.0.0), mvtnorm (>= 1.1.1), data.table (>= 1.12.8), Matrix (>= 1.2.18), glmnet (>= 4.0.2), stats (>= 4.0.2), ACAT (>= 0.91)
+Imports: dplyr (>= 1.0.2), mvtnorm (>= 1.1.1), data.table (>= 1.13.2), Matrix (>= 1.2.18), glmnet (>= 4.0.2), stats (>= 4.0.3), ACAT (>= 0.91)
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 Encoding: UTF-8
