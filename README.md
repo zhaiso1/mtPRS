@@ -7,6 +7,7 @@ mtPRS package (Zhai et al., 2023) implements two novel multi-trait polygenic ris
 
 ```
 library(devtools)
+devtools::install_github("yaowuliu/ACAT") # Need to install ACAT first through the Github
 devtools::install_github("zhaiso1/mtPRS")
 ```
 
