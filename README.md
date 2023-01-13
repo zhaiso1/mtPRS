@@ -5,6 +5,8 @@ mtPRS package (Zhai et al., 2023) implements two novel multi-trait polygenic ris
 
 ## Installation
 
+mtPRS R package requires R version >= 4.0.3.
+
 ```
 library(devtools)
 devtools::install_github("yaowuliu/ACAT") # Need to install ACAT first through the Github
