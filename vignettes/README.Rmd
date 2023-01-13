@@ -33,14 +33,14 @@ mtPRS package (Zhai et al., 2023) implements two novel multi-trait polygenic ris
 
 The package development version is tested on the following systems:
 
-Mac OSX: Mojave version 10.14.6 (R version 3.6.3)  
+Mac OSX: Mojave version 10.14.6 (R version 4.0.3)  
 
-Windows 10 (R version 3.6.3)
+Windows 10 (R version 4.0.3)
 
 The CRAN package should be compatible with Windows and Mac operating systems.
 
 ## Installing Guide
-`mtPRS` package requires R with version 3.6.3 or higher, which can be downloaded and installed from [here](https://github.com/zhaiso1/mtPRS). 
+`mtPRS` package requires R with version 4.0.3 or higher, which can be downloaded and installed from [here](https://github.com/zhaiso1/mtPRS). 
 
 ### Package dependencies
 
